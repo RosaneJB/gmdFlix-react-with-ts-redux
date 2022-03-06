@@ -1,0 +1,1 @@
+export type LayoutProp = {children: JSX.Element}
